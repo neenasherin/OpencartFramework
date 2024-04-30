@@ -13,7 +13,7 @@ import io.qameta.allure.Step;
 public class LoginPage {
 	private WebDriver driver;
 	private ElementUtil eleutil;
-private String test;
+
 	public LoginPage(WebDriver driver) {
 		this.driver = driver;
 		eleutil = new ElementUtil(driver);
