@@ -9,5 +9,7 @@ System.out.println("By neena");
 
 
 	}
-
+public void Register() {
+	int i=0;
+}
 }
