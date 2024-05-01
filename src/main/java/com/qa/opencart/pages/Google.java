@@ -9,5 +9,7 @@ System.out.println("By neena");
 
 
 	}
-
+public void FWD() {
+	int j=0;
+}
 }
